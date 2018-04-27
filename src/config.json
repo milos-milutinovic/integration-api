@@ -1,0 +1,9 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"bitbucket": {
+		"key": "HdtxQZJxqvUJg38vGa",
+		"secret": "TagQY4CQLeGN56vTXcmFPPkPkawPP5EQ"
+	}
+}
